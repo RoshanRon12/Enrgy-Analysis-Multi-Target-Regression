@@ -276,28 +276,6 @@ g <- g + geom_smooth(se=F, method = "lm")
 g
 ```
 
-# Hyperparameter Tuning
-
-Now we could move forward and adapt 
-
-- network topology, 
-
-- count of layers, 
-
-- type of layers, 
-
-- count of nodes per layer, 
-
-- loss function, 
-
-- activation function, 
-
-- learning rate, 
-
-- and much more, ...
-
-Play around with the parameters and see how they impact the result.
-
 # Acknowledgement
 
 We thank the authors of the dataset:
